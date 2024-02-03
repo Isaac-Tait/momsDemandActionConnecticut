@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 export default function Header() {
   return (
-    <div className='w-full px-12 bg-pink-100'>
+    <div className='w-full px-12 bg-yellow-50 heropattern-topography-indigo-200'>
       <div className='flex flex-row justify-between'>
         <Link href='/'>
           <Image
@@ -15,7 +15,7 @@ export default function Header() {
             priority
           />
         </Link>
-        <h1 className='flex justify-center items-center font-bold text-4xl text-red-500 p-2'>
+        <h1 className='flex justify-center items-center font-bold text-4xl text-red-500 p-2 font-cursive'>
           Moms Demand Action&nbsp;
           <span className='text-blue-500'>Connecticut Chapter</span>
         </h1>
@@ -24,13 +24,13 @@ export default function Header() {
       <div className='flex flex-row justify-between px-2'>
         <Link
           href='/senators'
-          className='text-blue-500 underline hover:text-red-500'
+          className='text-red-500 underline hover:text-blue-500'
         >
           Senators List
         </Link>
         <Link
           href='/about'
-          className='text-blue-500 underline hover:text-red-500'
+          className='text-red-500 underline hover:text-blue-500'
         >
           About Page
         </Link>
