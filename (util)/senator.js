@@ -1,0 +1,48 @@
+const senatorData = [
+  {
+    id: '1',
+    firstName: 'Saud',
+    lastName: 'Anwar',
+    district: 'S03',
+    yearElected: '',
+    photoURL: 'http://www.senatedems.ct.gov/images/anwar-00prT.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: 'true',
+    supportHB6667: 'true',
+  },
+  {
+    id: '2',
+    firstName: 'Eric',
+    lastName: 'Berthel',
+    district: 'S32',
+    yearElected: '',
+    photoURL:
+      'https://ctsenaterepublicans.com/wp-content/uploads/2023/10/Untitled-design-1-1.jpg',
+    party: 'Republican',
+    gunSenseCandidate: 'false',
+    supportHB6667: 'false',
+  },
+  {
+    id: '3',
+    firstName: 'Jorge',
+    lastName: 'Cabrera',
+    district: 'S17',
+    yearElected: '',
+    photoURL:
+      'http://www.senatedems.ct.gov/templates/Cabrera/images/Cabrera1x1.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: 'false',
+    supportHB6667: 'true',
+  },
+  {
+    id: '4',
+    firstName: '',
+    lastName: '',
+    district: '',
+    yearElected: '',
+    photoURL: '',
+    party: '',
+    gunSenseCandidate: '',
+    supportHB6667: '',
+  },
+];
