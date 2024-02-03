@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 export default function Header() {
   return (
-    <div className='w-full px-12 bg-yellow-50 heropattern-topography-indigo-200'>
+    <div className='w-full px-12 bg-slate-100 heropattern-topography-indigo-200'>
       <div className='flex flex-row justify-between'>
         <Link href='/'>
           <Image
