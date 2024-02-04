@@ -11,7 +11,7 @@ export default function SenatorCard({
   const currentYear = new Date().getFullYear();
   const years = currentYear - yearElected;
   return (
-    <div className='border-solid border-2 mx-2 bg-slate-100 p-1 rounded-lg min-w-72'>
+    <div className='border-solid border-2 mx-2 bg-slate-100 p-1 rounded-lg min-w-60 mb-4'>
       <div className='flex justify-center'>
         <img
           src={photoURL}

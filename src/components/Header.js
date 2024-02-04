@@ -15,10 +15,12 @@ export default function Header() {
             priority
           />
         </Link>
-        <h1 className='flex justify-center items-center font-bold text-4xl text-red-500 p-2 font-cursive'>
-          Moms Demand Action&nbsp;
-          <span className='text-blue-500'>Connecticut Chapter</span>
-        </h1>
+        <div className='flex justify-center items-center'>
+          <h1 className='font-bold text-4xl text-red-500 p-2 font-cursive hidden lg:block'>
+            Moms Demand Action&nbsp;
+            <span className='text-blue-500'>Connecticut Chapter</span>
+          </h1>
+        </div>
       </div>
 
       <div className='flex flex-row justify-between px-2'>
