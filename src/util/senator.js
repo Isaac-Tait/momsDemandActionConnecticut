@@ -24,7 +24,8 @@ const senatorData = [
     party: 'Republican',
     gunSenseCandidate: false,
     supportHB6667: false,
-    senateDistrict: '',
+    senateDistrict:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707084768/Senate%20Districts/senateDistrictThirtyTwo_afmp6s.png',
   },
   {
     id: '3',
@@ -37,7 +38,8 @@ const senatorData = [
     party: 'Democrat',
     gunSenseCandidate: false,
     supportHB6667: true,
-    senateDistrict: '',
+    senateDistrict:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707079517/Senate%20Districts/senateDistrictSeventeen_e5ms8g.png',
   },
   {
     id: '4',
@@ -50,7 +52,8 @@ const senatorData = [
     party: 'Republican',
     gunSenseCandidate: false,
     supportHB6667: false,
-    senateDistrict: '',
+    senateDistrict:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707084754/Senate%20Districts/senateDistrictThirtyFour_epvnv1.png',
   },
   {
     id: '5',
@@ -77,7 +80,8 @@ const senatorData = [
     party: 'Democrat',
     gunSenseCandidate: true,
     supportHB6667: true,
-    senateDistrict: '',
+    senateDistrict:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707081530/Senate%20Districts/senateDistrictTwentyFive_ejojmh.png',
   },
   {
     id: '7',
@@ -90,7 +94,8 @@ const senatorData = [
     party: 'Republican',
     gunSenseCandidate: false,
     supportHB6667: false,
-    senateDistrict: '',
+    senateDistrict:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707084760/Senate%20Districts/senateDistrictThirtySix_xjngdn.png',
   },
   {
     id: '8',
@@ -103,7 +108,8 @@ const senatorData = [
     party: 'Democrat',
     gunSenseCandidate: false,
     supportHB6667: true,
-    senateDistrict: '',
+    senateDistrict:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707084212/Senate%20Districts/senateDistrictTwentyNine_ix3lw2.png',
   },
   {
     id: '9',
@@ -130,7 +136,8 @@ const senatorData = [
     party: 'Democrat',
     gunSenseCandidate: false,
     supportHB6667: true,
-    senateDistrict: '',
+    senateDistrict:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707081544/Senate%20Districts/senateDistrictTwentyThree_uzixxy.png',
   },
   {
     id: '11',
@@ -143,7 +150,8 @@ const senatorData = [
     party: 'Republican',
     gunSenseCandidate: false,
     supportHB6667: false,
-    senateDistrict: '',
+    senateDistrict:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707084753/Senate%20Districts/senateDistrictThirtyFive_z8znin.png',
   },
   {
     id: '12',
@@ -156,7 +164,8 @@ const senatorData = [
     party: 'Republican',
     gunSenseCandidate: false,
     supportHB6667: false,
-    senateDistrict: '',
+    senateDistrict:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707084211/Senate%20Districts/senateDistrictThirty_whwdlv.png',
   },
   {
     id: '13',
@@ -197,7 +206,8 @@ const senatorData = [
     party: 'Republican',
     gunSenseCandidate: false,
     supportHB6667: false,
-    senateDistrict: '',
+    senateDistrict:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707084211/Senate%20Districts/senateDistrictTwentyEight_dwos7v.png',
   },
   {
     id: '16',
@@ -210,7 +220,8 @@ const senatorData = [
     party: 'Republican',
     gunSenseCandidate: false,
     supportHB6667: false,
-    senateDistrict: '',
+    senateDistrict:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707081538/Senate%20Districts/senateDistrictTwentyOne_duch3m.png',
   },
   {
     id: '17',
@@ -237,7 +248,8 @@ const senatorData = [
     party: 'Democrat',
     gunSenseCandidate: true,
     supportHB6667: true,
-    senateDistrict: '',
+    senateDistrict:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707081534/Senate%20Districts/senateDistrictTwentyFour_uf0kfa.png',
   },
   {
     id: '19',
@@ -292,7 +304,8 @@ const senatorData = [
     party: 'Democrat',
     gunSenseCandidate: true,
     supportHB6667: true,
-    senateDistrict: '',
+    senateDistrict:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707081542/Senate%20Districts/senateDistrictTwentySix_hobqny.png',
   },
   {
     id: '23',
@@ -319,7 +332,8 @@ const senatorData = [
     party: 'Republican',
     gunSenseCandidate: false,
     supportHB6667: false,
-    senateDistrict: '',
+    senateDistrict:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707084757/Senate%20Districts/senateDistrictThirtyOne_wpidgi.png',
   },
   {
     id: '25',
@@ -360,7 +374,8 @@ const senatorData = [
     party: 'Democrat',
     gunSenseCandidate: true,
     supportHB6667: true,
-    senateDistrict: '',
+    senateDistrict:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707084215/Senate%20Districts/senateDistrictTwentySeven_o0cwvj.png',
   },
   {
     id: '28',
@@ -373,7 +388,8 @@ const senatorData = [
     party: 'Democrat',
     gunSenseCandidate: false,
     supportHB6667: true,
-    senateDistrict: '',
+    senateDistrict:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707081533/Senate%20Districts/senateDistrictTwentyTwo_shrnve.png',
   },
   {
     id: '29',
@@ -386,7 +402,8 @@ const senatorData = [
     party: 'Democrat',
     gunSenseCandidate: true,
     supportHB6667: true,
-    senateDistrict: '',
+    senateDistrict:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707084764/Senate%20Districts/senateDistrictThirtyThree_c7h0oc.png',
   },
   {
     id: '30',
