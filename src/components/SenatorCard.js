@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export default function SenatorCard({
   firstName,
   lastName,
@@ -7,6 +9,7 @@ export default function SenatorCard({
   photoURL,
   gunSenseCandidate,
   supportHB6667,
+  senateDistrict,
 }) {
   const currentYear = new Date().getFullYear();
   const years = currentYear - yearElected;
@@ -19,21 +22,26 @@ export default function SenatorCard({
           className='rounded-xl shadow-xl object-cover h-48 w-32'
         />
       </div>
-      <h3 className='text-xl font-medium'>
+      <h3 className='text-xl font-medium text-center'>
         {firstName} {lastName}
       </h3>
-      <p>District: {district}</p>
+      <Link href={senateDistrict} legacyBehavior>
+        <a
+          target='_blank'
+          className='text-blue-500 underline hover:bg-blue-300 hover:text-red-500 p-1 hover:rounded-md flex justify-center'
+        >
+          District: {district}
+        </a>
+      </Link>
       <p>Years in position: {years}</p>
       <p>Party: {party}</p>
       <div className='flex flex-row'>
         <p>Supports Gun Bill HB 6667:&nbsp;</p>
-        <p>{supportHB6667 ? <p>&#128077;</p> : <p>&#128078;</p>}</p>
+        <p>{supportHB6667 ? <p>&#129505;</p> : <p>&#9940;</p>}</p>
       </div>
       <div className='flex flex-row'>
         <p>Gun Sense Candidate:&nbsp;</p>
-        <p>
-          {gunSenseCandidate ? <p>&#128077;</p> : <p>&#128078;</p>}
-        </p>
+        <p>{gunSenseCandidate ? <p>&#129505;</p> : <p>&#9940;</p>}</p>
       </div>
     </div>
   );

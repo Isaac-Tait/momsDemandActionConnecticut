@@ -25,10 +25,11 @@ export default function Senator() {
             photoURL={d.photoURL}
             gunSenseCandidate={d.gunSenseCandidate}
             supportHB6667={d.supportHB6667}
+            senateDistrict={d.senateDistrict}
           />
         ))}
       </div>
-      <div >
+      <div>
         <Footer />
       </div>
     </>
