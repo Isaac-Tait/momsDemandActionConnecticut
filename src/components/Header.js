@@ -26,20 +26,25 @@ export default function Header() {
         </div>
         {/* Social Media */}
         <div className='flex justify-center items-center'>
-          <Link href='https://www.facebook.com/MomsDemandActionCTCentral/'>
-            <Image
-              className='relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert'
-              src='/facebookLogo.png'
-              alt='Moms Demand Action CT State Logo'
-              width={35}
-              height={35}
-              priority
-            />
+          <Link
+            href='https://www.facebook.com/MomsDemandActionCTCentral/'
+            legacyBehavior
+          >
+            <a target='_blank'>
+              <Image
+                className='relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert'
+                src='/facebookLogo.png'
+                alt='Moms Demand Action CT State Logo'
+                width={35}
+                height={35}
+                priority
+              />
+            </a>
           </Link>
         </div>
       </div>
       {/* Navigation */}
-      <div >
+      <div>
         <Navigation />
       </div>
     </div>

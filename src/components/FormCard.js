@@ -9,12 +9,12 @@ export default function FormCard({ id, formURL, formName, notes }) {
       <Link href={formURL} legacyBehavior passHref>
         <a
           target='_blank'
-          className='text-red-500 underline hover:text-blue-500'
+          className='text-blue-500 underline p-1 hover:text-red-500 hover:bg-blue-300 hover:rounded-md font-medium'
         >
           {formName}
         </a>
       </Link>
-      <p className='max-w-48'>{notes}</p>
+      <p className='max-w-48 text-sm'>{notes}</p>
     </div>
   );
 }
