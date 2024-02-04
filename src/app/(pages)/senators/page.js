@@ -1,14 +1,16 @@
-import senatorList from '../../../util/senator.js';
+import Header from '../../../components/Header';
 
+import senatorList from '../../../util/senator.js';
 import SenatorCard from '../../../components/SenatorCard.js';
 
 export default function Senator() {
   return (
     <>
+      <Header />
       <h1>
-        This is a list of Senators for the great state of Connecticut!
+        Senators for the great state of Connecticut!
       </h1>
-      <div>
+      <div className='flex flex-row max-w-6xl mx-auto justify-between'>
         {senatorList.map((d) => (
           <SenatorCard
             key={d.id}
