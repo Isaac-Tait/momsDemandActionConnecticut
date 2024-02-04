@@ -1,6 +1,8 @@
 import Link from 'next/link';
 import Image from 'next/image';
 
+import Navigation from './Navigation';
+
 export default function Header() {
   return (
     <div className='w-full px-12 bg-slate-100 heropattern-topography-indigo-200'>
@@ -36,27 +38,9 @@ export default function Header() {
           </Link>
         </div>
       </div>
-
-      <div className='flex flex-row justify-between px-2'>
-        <Link
-          href='/senators'
-          className='text-red-500 underline hover:text-blue-500'
-        >
-          Senators List
-        </Link>
-        <Link
-          href='/about'
-          className='text-red-500 underline hover:text-blue-500'
-        >
-          About Page
-        </Link>
-        <Link
-          href='/forms'
-          className='text-red-500 underline hover:text-blue-500'
-        >
-          Forms
-        </Link>
-        <p>List Item 4</p>
+      {/* Navigation */}
+      <div >
+        <Navigation />
       </div>
     </div>
   );
