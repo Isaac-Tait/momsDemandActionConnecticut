@@ -115,7 +115,7 @@ export default function targetShooting() {
             </span>
           </p>
           <Link
-            href=''
+            href='https://docs.google.com/document/d/1oO990psLgb-pYI8J1420YlS_3WCMmUirCTp7wMXKWfQ/edit?usp=sharing'
             className='text-blue-500 underline p-1 hover:text-red-500 hover:bg-blue-300 hover:rounded-md font-medium text-center w-fit'
           >
             Sample Letter
