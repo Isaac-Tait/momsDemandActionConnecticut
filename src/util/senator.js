@@ -205,7 +205,7 @@ const senatorData = [
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707076331/Senator%20Photos/tonyHwang_qsbvlt.jpg',
     party: 'Republican',
     gunSenseCandidate: false,
-    supportHB6667: false,
+    supportHB6667: true,
     senateDistrict:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707084211/Senate%20Districts/senateDistrictTwentyEight_dwos7v.png',
   },
@@ -415,7 +415,7 @@ const senatorData = [
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707080381/Senator%20Photos/catherineOsten_mge48k.jpg',
     party: 'Democrat',
     gunSenseCandidate: false,
-    supportHB6667: true,
+    supportHB6667: false,
     senateDistrict:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707079514/Senate%20Districts/senateDistrictNineteen_jsdnjw.png',
   },
