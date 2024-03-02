@@ -1,13 +1,13 @@
 'use client';
 import Head from 'next/head';
 
-import { useUser } from '@auth0/nextjs-auth0/client';
+//import { useUser } from '@auth0/nextjs-auth0/client';
 
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 
 export default function Home() {
-  const { user, error, isLoading } = useUser();
+  /*   const { user, error, isLoading } = useUser();
 
   if (isLoading) return <div>Loading...</div>;
   if (error) return <div>{error.message}</div>;
@@ -34,7 +34,7 @@ export default function Home() {
         </div>
       </div>
     );
-  }
+  } */
 
   return (
     <div className='flex flex-col min-h-screen'>
@@ -43,12 +43,12 @@ export default function Home() {
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <Header />
-      <a
+      {/* <a
         href='/api/auth/login'
         className='text-blue-500 underline p-1 hover:text-red-500 hover:bg-blue-300 hover:rounded-md font-medium w-20 text-center'
       >
         Login
-      </a>
+      </a> */}
       <div className='mt-auto'>
         <Footer />
       </div>
