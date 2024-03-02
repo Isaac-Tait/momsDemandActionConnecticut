@@ -190,7 +190,7 @@ const senatorData = [
     photoURL:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707076153/Senator%20Photos/janHochadel_ppdvfl.jpg',
     party: 'Democrat',
-    gunSenseCandidate: true,
+    gunSenseCandidate: false,
     supportHB6667: true,
     senateDistrict:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707075739/Senate%20Districts/senateDistrictThirteen_nvwzb5.png',
@@ -246,7 +246,7 @@ const senatorData = [
     photoURL:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707076677/Senator%20Photos/julieKushner_knjytw.jpg',
     party: 'Democrat',
-    gunSenseCandidate: true,
+    gunSenseCandidate: false,
     supportHB6667: true,
     senateDistrict:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707081534/Senate%20Districts/senateDistrictTwentyFour_uf0kfa.png',
@@ -260,7 +260,7 @@ const senatorData = [
     photoURL:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707076899/Senator%20Photos/matthewLesser_k9vma5.jpg',
     party: 'Democrat',
-    gunSenseCandidate: true,
+    gunSenseCandidate: false,
     supportHB6667: true,
     senateDistrict:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707075259/Senate%20Districts/senateDistrictNine_cvkdcv.png',
@@ -316,7 +316,7 @@ const senatorData = [
     photoURL:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707078883/Senator%20Photos/jamesMaroney_fuovwy.jpg',
     party: 'Democrat',
-    gunSenseCandidate: true,
+    gunSenseCandidate: false,
     supportHB6667: true,
     senateDistrict:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707075735/Senate%20Districts/senateDistrictFourteen_xmpkqh.png',
@@ -372,7 +372,7 @@ const senatorData = [
     photoURL:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707079898/Senator%20Photos/patriciaBillieMiller_mljuxm.jpg',
     party: 'Democrat',
-    gunSenseCandidate: true,
+    gunSenseCandidate: false,
     supportHB6667: true,
     senateDistrict:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707084215/Senate%20Districts/senateDistrictTwentySeven_o0cwvj.png',
@@ -400,7 +400,7 @@ const senatorData = [
     photoURL:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707080211/Senator%20Photos/normanNeedleman_dn2yfa.jpg',
     party: 'Democrat',
-    gunSenseCandidate: true,
+    gunSenseCandidate: false,
     supportHB6667: true,
     senateDistrict:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707084764/Senate%20Districts/senateDistrictThirtyThree_c7h0oc.png',
@@ -428,7 +428,7 @@ const senatorData = [
     photoURL:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707080593/Senator%20Photos/mdRahman_fh0uab.jpg',
     party: 'Democrat',
-    gunSenseCandidate: true,
+    gunSenseCandidate: false,
     supportHB6667: true,
     senateDistrict:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707071583/Senate%20Districts/senateDistrictFour_ojriyh.png',
@@ -470,7 +470,7 @@ const senatorData = [
     photoURL:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707081191/Senator%20Photos/derekSlap_b4wqe3.jpg',
     party: 'Democrat',
-    gunSenseCandidate: true,
+    gunSenseCandidate: false,
     supportHB6667: true,
     senateDistrict:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707071580/Senate%20Districts/senateDistrictFIve_goc2l7.png',
@@ -498,7 +498,7 @@ const senatorData = [
     photoURL:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707081194/Senator%20Photos/garyWinfield_jenhb8.jpg',
     party: 'Democrat',
-    gunSenseCandidate: true,
+    gunSenseCandidate: false,
     supportHB6667: true,
     senateDistrict:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1707075261/Senate%20Districts/senateDistrictTen_phrdjg.png',
