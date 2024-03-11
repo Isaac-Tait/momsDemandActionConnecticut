@@ -28,7 +28,7 @@ export default function RepresentativeCard({
       <Link href={repDistrict} legacyBehavior>
         <a
           target='_blank'
-          className='text-blue-500 underline hover:bg-blue-300 hover:text-red-500 p-1 hover:rounded-md flex justify-center'
+          className='text-blue-500 underline hover:bg-blue-300 hover:text-red-500 p-1 hover:rounded-md w-fit'
         >
           District: {district}
         </a>

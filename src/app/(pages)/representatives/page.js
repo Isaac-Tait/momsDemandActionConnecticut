@@ -19,7 +19,7 @@ export default function RepresentativePage() {
       <Header />
       {/* <div>Hello {user.name}</div> */}
       <h1 className='font-cursive text-2xl pb-6 text-center text-red-500'>
-        Senators for{' '}
+        Representatives for{' '}
         <span className='text-blue-500'>the great state</span> of
         Connecticut!
       </h1>
@@ -35,7 +35,7 @@ export default function RepresentativePage() {
             photoURL={d.photoURL}
             gunSenseCandidate={d.gunSenseCandidate}
             supportHB6667={d.supportHB6667}
-            repDistrict={d.senateDistrict}
+            repDistrict={d.repDistrict}
           />
         ))}
       </div>
