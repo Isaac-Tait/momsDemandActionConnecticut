@@ -280,16 +280,215 @@ const representativeData = [
       'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_108.pdf',
   },
   {
-    id: '',
-    firstName: '',
-    lastName: '',
-    district: '',
-    yearElected: '',
-    photoURL: '',
-    party: '',
+    id: '21',
+    firstName: 'Juan',
+    lastName: 'Candelaria',
+    district: '095',
+    yearElected: '2002',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710854283/Representative%20Photos/JuanCandelaria_ttjuuy.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: false,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_95.pdf',
+  },
+  {
+    id: '22',
+    firstName: 'Vincent',
+    lastName: 'Candelora',
+    district: '086',
+    yearElected: '2007',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710854414/Representative%20Photos/VincentCandelora_xqwzaq.jpg',
+    party: 'Republican',
+    gunSenseCandidate: false,
+    supportHB6667: false,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_86.pdf',
+  },
+  {
+    id: '23',
+    firstName: 'Devin',
+    lastName: 'Carney',
+    district: '023',
+    yearElected: '2015',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710854646/Representative%20Photos/DevinCarney_hp7jb1.jpg',
+    party: 'Republican',
+    gunSenseCandidate: false,
+    supportHB6667: false,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_23.pdf',
+  },
+  {
+    id: '24',
+    firstName: 'Christie',
+    lastName: 'Carpino',
+    district: '032',
+    yearElected: '2010',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710854777/Representative%20Photos/ChristieCarpino_ji1gob.jpg',
+    party: 'Republican',
+    gunSenseCandidate: false,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_32.pdf',
+  },
+
+  {
+    id: '25',
+    firstName: 'Jay',
+    lastName: 'Chase',
+    district: '063',
+    yearElected: '2013',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710855043/Representative%20Photos/JayCase_rlv8ng.jpg',
+    party: 'Republican',
+    gunSenseCandidate: false,
+    supportHB6667: false,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_63.pdf',
+  },
+  {
+    id: '26',
+    firstName: 'Brandon',
+    lastName: 'Chafee',
+    district: '033',
+    yearElected: '2020',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710855183/Representative%20Photos/BrandonChafee_vpyryw.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: false,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_33.pdf',
+  },
+  {
+    id: '27',
+    firstName: 'Rachel',
+    lastName: 'Chaleski',
+    district: '138',
+    yearElected: '2023',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710855292/Representative%20Photos/RachelChaleski_mql3ud.jpg',
+    party: 'Republican',
+    gunSenseCandidate: false,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_138.pdf',
+  },
+  {
+    id: '28',
+    firstName: 'Holly',
+    lastName: 'Cheeseman',
+    district: '037',
+    yearElected: '2017',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710855439/Representative%20Photos/HollyCheeseman_cs0rmn.jpg',
+    party: 'Republican',
+    gunSenseCandidate: false,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_37.pdf',
+  },
+  {
+    id: '29',
+    firstName: 'Robin',
+    lastName: 'Comey',
+    district: '102',
+    yearElected: '2018',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710855554/Representative%20Photos/RobinComey_orae57.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: true,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_102.pdf',
+  },
+  {
+    id: '30',
+    firstName: 'Julio',
+    lastName: 'Concepcion',
+    district: '004',
+    yearElected: '2010',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710855689/Representative%20Photos/JulioConcepcion_bgziin.png',
+    party: 'Democrat',
+    gunSenseCandidate: false,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_4.pdf',
+  },
+  {
+    id: '31',
+    firstName: 'Christine',
+    lastName: 'Conley',
+    district: '040',
+    yearElected: '2016',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710855784/Representative%20Photos/ChristineConley_ymn4oe.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: true,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_40.pdf',
+  },
+  {
+    id: '32',
+    firstName: 'Michelle',
+    lastName: 'Cook',
+    district: '065',
+    yearElected: '2008',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710855959/Representative%20Photos/MichelleCook_pomi3e.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: false,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_65.pdf',
+  },
+  {
+    id: '33',
+    firstName: 'Francis',
+    lastName: 'Cooley',
+    district: '022',
+    yearElected: '2022',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710856099/Representative%20Photos/FrancisCooley_hdfcx6.jpg',
+    party: 'Republican',
+    gunSenseCandidate: false,
+    supportHB6667: false,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_22.pdf',
+  },
+  {
+    id: '34',
+    firstName: 'Jeff',
+    lastName: 'Currey',
+    district: '011',
+    yearElected: '2015',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710856300/Representative%20Photos/JeffCurrey_tvfs2g.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: false,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_11.pdf',
+  },
+  {
+    id: '35',
+    firstName: 'Michael',
+    lastName: "D'Agostino",
+    district: '091',
+    yearElected: '2012',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710856556/Representative%20Photos/MicharlDAgostino_qnmxgr.png',
+    party: 'Democrat',
     gunSenseCandidate: '',
-    supportHB6667: '',
-    repDistrict: '',
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_35.pdf',
   },
   {
     id: '',
@@ -376,6 +575,19 @@ const representativeData = [
     supportHB6667: '',
     repDistrict: '',
   },
+  {
+    id: '',
+    firstName: '',
+    lastName: '',
+    district: '',
+    yearElected: '',
+    photoURL: '',
+    party: '',
+    gunSenseCandidate: '',
+    supportHB6667: '',
+    repDistrict: '',
+  },
+
   {
     id: '',
     firstName: '',
