@@ -703,6 +703,104 @@ const representativeData = [
       'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_20.pdf',
   },
   {
+    id: '51',
+    firstName: 'Jonathan',
+    lastName: 'Fazzino',
+    district: '083',
+    yearElected: '2022',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710984788/Representative%20Photos/JonathanFazzino_lfadyz.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: false,
+    supportHB6667: false,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_83.pdf',
+  },
+  {
+    id: '52',
+    firstName: 'Antonio',
+    lastName: 'Felipe',
+    district: '1320',
+    yearElected: '2019',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710984933/Representative%20Photos/AntonioFelipe_u56pkl.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: false,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_130.pdf',
+  },
+  {
+    id: '53',
+    firstName: 'Charles',
+    lastName: 'Ferraro',
+    district: '117',
+    yearElected: '2015',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710985145/Representative%20Photos/CharlesFerraro_hanlfp.jpg',
+    party: 'Republican',
+    gunSenseCandidate: false,
+    supportHB6667: false,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_117.pdf',
+  },
+  {
+    id: '54',
+    firstName: 'Anabel',
+    lastName: 'Figueroa',
+    district: '148',
+    yearElected: '2023',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710985289/Representative%20Photos/AnabelFigueroa_iafknn.png',
+    party: 'Democrat',
+    gunSenseCandidate: false,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_148.pdf',
+  },
+  {
+    id: '55',
+    firstName: 'Craig',
+    lastName: 'Fishbein',
+    district: '090',
+    yearElected: '2016',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710985417/Representative%20Photos/CraigFishbein_jyoffi.jpg',
+    party: 'Republican',
+    gunSenseCandidate: false,
+    supportHB6667: false,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_90.pdf',
+  },
+  {
+    id: '56',
+    firstName: 'Martin',
+    lastName: 'Foncello',
+    district: '107',
+    yearElected: '2022',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710985810/Representative%20Photos/MartinFoncello_h4z9sf.png',
+    party: 'Republican',
+    gunSenseCandidate: false,
+    supportHB6667: false,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_107.pdf',
+  },
+  {
+    id: '57',
+    firstName: 'Mary',
+    lastName: 'Fortier',
+    district: '079',
+    yearElected: '2023',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710985808/Representative%20Photos/MaryFortier_htefa4.png',
+    party: 'Democrat',
+    gunSenseCandidate: false,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_79.pdf',
+  },
+  {
     id: '',
     firstName: '',
     lastName: '',
