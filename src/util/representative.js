@@ -1081,6 +1081,119 @@ const representativeData = [
       'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_135.pdf',
   },
   {
+    id: '77',
+    firstName: 'Dominique',
+    lastName: 'Johnson',
+    district: '143',
+    yearElected: '2022',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711374287/Representative%20Photos/DominiqueJohnson_dnt5u5.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: true,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_143.pdf',
+  },
+  {
+    id: '78',
+    firstName: 'Susan',
+    lastName: 'Johnson',
+    district: '049',
+    yearElected: '2009',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711374445/Representative%20Photos/SusanMJohnson_gmshej.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: false,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_49.pdf',
+  },
+  {
+    id: '80',
+    firstName: 'Eleni',
+    lastName: 'Kavros DeGraw',
+    district: '017',
+    yearElected: '2020',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711374601/Representative%20Photos/EleniKavrosDeGraw_wjwanp.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: false,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_17.pdf',
+  },
+  {
+    id: '81',
+    firstName: 'Sarah',
+    lastName: 'Keitt',
+    district: '134',
+    yearElected: '2022',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711374862/Representative%20Photos/SarahKeitt_syp2jz.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: true,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_134.pdf',
+  },
+
+  {
+    id: '82',
+    firstName: 'Kathleen',
+    lastName: 'Kennedy',
+    district: '119',
+    yearElected: '2019',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711375406/Representative%20Photos/KathyKennedy_b0ooky.jpg',
+    party: 'Republican',
+    gunSenseCandidate: false,
+    supportHB6667: false,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_119.pdf',
+  },
+  {
+    id: '83',
+    firstName: 'Maryam',
+    lastName: 'Khan',
+    district: '005',
+    yearElected: '2022',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711375718/Representative%20Photos/MaryamKhan_hhjh3o.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: true,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_5.pdf',
+  },
+  {
+    id: '84',
+    firstName: 'Rachel',
+    lastName: 'Khanna',
+    district: '149',
+    yearElected: '2023',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711375863/Representative%20Photos/RachelKhanna_mutzob.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: true,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_149.pdf',
+  },
+  {
+    id: '85',
+    firstName: 'Nicole',
+    lastName: 'Klarides-Ditria',
+    district: '105',
+    yearElected: '2022',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711376549/Representative%20Photos/NicoleKlaridesDitria_xtqbot.jpg',
+    party: 'Republican',
+    gunSenseCandidate: false,
+    supportHB6667: false,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_105.pdf',
+  },
+  {
     id: '',
     firstName: '',
     lastName: '',
