@@ -1376,7 +1376,7 @@ const representativeData = [
       'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_150.pdf',
   },
   {
-    id: '98',
+    id: '99',
     firstName: 'David',
     lastName: 'Michael',
     district: '146',
@@ -1390,7 +1390,7 @@ const representativeData = [
       'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_146.pdf',
   },
   {
-    id: '99',
+    id: '100',
     firstName: 'Amy',
     lastName: 'Morrin Bello',
     district: '028',
@@ -1404,7 +1404,7 @@ const representativeData = [
       'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_28.pdf',
   },
   {
-    id: '100',
+    id: '101',
     firstName: 'Mary',
     lastName: 'Mushinsky',
     district: '085',
@@ -1418,7 +1418,7 @@ const representativeData = [
       'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_85.pdf',
   },
   {
-    id: '101',
+    id: '102',
     firstName: 'Ronald',
     lastName: 'Napoli',
     district: '073',
@@ -1430,6 +1430,146 @@ const representativeData = [
     supportHB6667: true,
     repDistrict:
       'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_73.pdf',
+  },
+  {
+    id: '103',
+    firstName: 'Anthony',
+    lastName: 'Nolan',
+    district: '039',
+    yearElected: '2019',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711725532/Representative%20Photos/NolanAnthony_z9lfdv.webp',
+    party: 'Democrat',
+    gunSenseCandidate: true,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_39.pdf',
+  },
+  {
+    id: '104',
+    firstName: 'Tammy',
+    lastName: 'Nuccio',
+    district: '053',
+    yearElected: '2020',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711725721/Representative%20Photos/tammyNuccio_nwb542.webp',
+    party: 'Republican',
+    gunSenseCandidate: false,
+    supportHB6667: false,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_53.pdf',
+  },
+  {
+    id: '105',
+    firstName: 'Tom',
+    lastName: "O'Dea",
+    district: '125',
+    yearElected: '2013',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711725870/Representative%20Photos/TomO_Dea_fkyw3n.jpg',
+    party: 'Republican',
+    gunSenseCandidate: false,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_125.pdf',
+  },
+  {
+    id: '106',
+    firstName: 'Melissa',
+    lastName: 'Osborne',
+    district: '016',
+    yearElected: '2024',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711727183/Representative%20Photos/MelissaOsborne_dyshus.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: true,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_16.pdf',
+  },
+  {
+    id: '107',
+    firstName: 'Christine',
+    lastName: 'Palm',
+    district: '036',
+    yearElected: '2018',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711727328/Representative%20Photos/ChristinePalm_rti6sm.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: true,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_36.pdf',
+  },
+  {
+    id: '108',
+    firstName: 'Alphonse',
+    lastName: 'Paolillo',
+    district: '097',
+    yearElected: '2017',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711727457/Representative%20Photos/AlphonsePaolillo_kms0zw.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: false,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_97.pdf',
+  },
+  {
+    id: '109',
+    firstName: 'Corey',
+    lastName: 'Paris',
+    district: '145',
+    yearElected: '2021',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711727584/Representative%20Photos/CoreyParis_xkxxm0.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: true,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_145.pdf',
+  },
+  {
+    id: '110',
+    firstName: 'John-Michael',
+    lastName: 'Parker',
+    district: '101',
+    yearElected: '2020',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711727698/Representative%20Photos/JohnMichaelParker_chxlj4.jpg',
+    party: 'Democrat',
+    gunSenseCandidate: true,
+    supportHB6667: true,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_101.pdf',
+  },
+  {
+    id: '111',
+    firstName: 'Cara Christine',
+    lastName: "Pavalock-D'Amato",
+    district: '077',
+    yearElected: '2015',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711727807/Representative%20Photos/CaraChristinePavalockDAmato_j79c0u.jpg',
+    party: 'Republican',
+    gunSenseCandidate: false,
+    supportHB6667: false,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_77.pdf',
+  },
+  {
+    id: '112',
+    firstName: 'Jason',
+    lastName: 'Perillo',
+    district: '113',
+    yearElected: '2007',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711727961/Representative%20Photos/JasonPerillo_qpnbct.jpg',
+    party: 'Republican',
+    gunSenseCandidate: false,
+    supportHB6667: false,
+    repDistrict:
+      'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_113.pdf',
   },
   {
     id: '',
