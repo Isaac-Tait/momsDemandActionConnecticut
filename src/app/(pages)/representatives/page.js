@@ -14,6 +14,11 @@ import RepresentativeCard from '../../../components/RepresentativeCard.js';
     const { user } = await getSession(); */
 
 export default function RepresentativePage() {
+  const sortedRepresentatives = representativeList;
+  sortedRepresentatives.sort((a, b) => {
+    return parseFloat(a.district) - parseFloat(b.district);
+  });
+
   return (
     <>
       <Header />
@@ -24,7 +29,7 @@ export default function RepresentativePage() {
         Connecticut!
       </h1>
       <div className='max-w-7xl mx-auto overflow-scroll-y z-10 pb-4 flex flex-wrap justify-center'>
-        {representativeList.map((d) => (
+        {sortedRepresentatives.map((d) => (
           <RepresentativeCard
             key={d.id}
             firstName={d.firstName}

@@ -720,7 +720,7 @@ const representativeData = [
     id: '52',
     firstName: 'Antonio',
     lastName: 'Felipe',
-    district: '1320',
+    district: '130',
     yearElected: '2019',
     photoURL:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1710984933/Representative%20Photos/AntonioFelipe_u56pkl.jpg',
