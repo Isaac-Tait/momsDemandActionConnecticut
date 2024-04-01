@@ -2042,7 +2042,7 @@ const representativeData = [
     photoURL:
       'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711985710/Representative%20Photos/DerellWilson_dryisd.jpg',
     party: 'Democrat',
-    gunSenseCandidate: falsew,
+    gunSenseCandidate: false,
     supportHB6667: true,
     repDistrict:
       'https://www.cga.ct.gov/rr/tfs/20210401_2021%20Redistricting%20Project/NODISPLAY_data/housemaps/Individual%20District%20Maps/House%20Districts_46.pdf',
