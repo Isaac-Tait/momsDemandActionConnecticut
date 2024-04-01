@@ -2108,8 +2108,9 @@ const representativeData = [
     firstName: 'Lezlye',
     lastName: 'Zupkus',
     district: '089',
-    yearElected: '',
-    photoURL: '',
+    yearElected: '2013',
+    photoURL:
+      'https://res.cloudinary.com/ddbc9j5u9/image/upload/v1711986262/Representative%20Photos/LezlyeZupkus_sbf29w.jpg',
     party: 'Republican',
     gunSenseCandidate: false,
     supportHB6667: false,
