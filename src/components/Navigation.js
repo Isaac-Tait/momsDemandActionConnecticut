@@ -5,6 +5,7 @@ const navigation = [
   { name: 'About', href: '/about', current: false },
   { name: 'Forms', href: '/forms', current: false },
   { name: 'Senator List', href: '/senators', current: false },
+  { name: 'Calendar', href: '/calendar', current: false },
   {
     name: 'Representative List',
     href: '/representatives',
