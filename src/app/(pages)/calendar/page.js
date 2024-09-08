@@ -8,7 +8,10 @@ export default function About() {
       <h1 className='mx-auto font-semibold text-2xl text-blue-500'>
         2024 Calendar
       </h1>
-
+      <iframe
+        className='h-screen'
+        src='https://docs.google.com/spreadsheets/d/e/2PACX-1vTk2tAGx5mUXtEV-l1DQ6EqJPQTGriqlgJIN8H3qI6LgRJP68upx1vDqOawoPNrY-LiFJxoUgZk3Yo0/pubhtml?widget=true&amp;headers=false'
+      ></iframe>
       <div className='mt-auto'>
         <Footer />
       </div>
