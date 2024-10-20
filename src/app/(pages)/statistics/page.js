@@ -88,12 +88,11 @@ export default function Statistics() {
               the number 6-4-4-3-3.
             </li>
             <li>
-              Guns are the leading cause of death for kids and teens
-              in our country. There&#39;s nothing more urgent to us
-              than electing leaders like Vice President Kamala (SAY:
-              Comma-la) Harris, who will work to end{' '}
-              <span className='underline'>the</span> gun violence
-              that&#39;s tearing our communities apart.
+              Guns are the leading cause of death for children in our
+              country. There&#39;s nothing more urgent to me (and a
+              main driver of my volunteering) than electing leaders
+              like Vice President Kamala (SAY: Comma-la) Harris who
+              will do something about this very real issue.
             </li>
           </ul>
         </div>
