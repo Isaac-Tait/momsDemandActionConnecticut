@@ -11,7 +11,7 @@ export default function Statistics() {
         <h1 className='font-bold text-3xl text-center text-blue-500 p-2 font-cursive'>
           Statistics (as of October 2024)
         </h1>
-        <div className='max-w-4xl mx-auto bg-slate-100 rounded-lg opacity-75'>
+        <div className='md:max-w-4xl md:mx-auto mx-2 bg-slate-100 rounded-lg opacity-75'>
           <ul className='list-disc mb-4 ml-10 text-lg'>
             <li>
               Twenty three (23) children and teens are shot every day
@@ -35,11 +35,11 @@ export default function Statistics() {
         <h1 className='font-bold text-3xl text-center text-blue-500 p-2 font-cursive'>
           Script
         </h1>
-        <div className='max-w-4xl mx-auto bg-slate-100 rounded-lg opacity-75'>
+        <div className='md:max-w-4xl md:mx-auto mx-2 bg-slate-100 rounded-lg opacity-75'>
           <h4 className='text-xl text-red-500 text-center'>
             Voicemail
           </h4>
-          <ul className='list-disc mb-4 ml-10 text-lg'>
+          <ul className='list-disc mb-4 ml-10 text-lg mr-2'>
             <li>
               Hello my name is ___ and I am a volunteer with Moms
               Demand Action. The election on November 5th is an
@@ -55,11 +55,11 @@ export default function Statistics() {
             </li>
           </ul>
         </div>
-        <div className='max-w-4xl mx-auto bg-slate-100 rounded-lg opacity-75'>
+        <div className='md:max-w-4xl md:mx-auto mx-2 bg-slate-100 rounded-lg opacity-75'>
           <h4 className='text-xl text-red-500 text-center'>
             Live call
           </h4>
-          <ul className='list-disc mb-4 ml-10 text-lg'>
+          <ul className='list-disc mb-4 ml-10 text-lg mr-2'>
             <li>
               Hello ____{' '}
               <span className='italic text-xs'>
