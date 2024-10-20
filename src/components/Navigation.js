@@ -4,14 +4,15 @@ import { Disclosure } from '@headlessui/react';
 const navigation = [
   { name: 'About', href: '/about', current: false },
   { name: 'Forms', href: '/forms', current: false },
-  { name: 'Senator List', href: '/senators', current: false },
   { name: 'Calendar', href: '/calendar-24', current: false },
+  { name: 'GOTV', href: '/statistics', current: false },
+  { name: 'Issues', href: '/issues', current: false },
+  { name: 'Senator List', href: '/senators', current: false },
   {
     name: 'Representative List',
     href: '/representatives',
     current: false,
   },
-  { name: 'Issues', href: '/issues', current: false },
 ];
 
 function classNames(...classes) {
